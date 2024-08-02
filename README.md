@@ -1,74 +1,63 @@
+<h2 align="left">Hi 👋! My name is Ashton and I'm a Student at NMAM Institute of Technology</h2>
 
-<a href="https://github.com/Subtilizer28" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Subtilizer28&count_private=true&theme=radical" />
-</a>
+###
 
-<h1>Hello 👋, I'm Ashton Mathias</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subtilizer28&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subtilizer28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p>I'm a Student at NMAM Institute of Technology, currently pursuing a B.Tech in Computer Science and Engineering. </p>
+###
 
-<h2>🛠 Skills</h2>
-<p>
+<img align="right" height="160" src="https://media.tenor.com/O8gy1gagVDoAAAAi/one-piece-pixel.gif"  />
 
-<a target="_blank" href="https://www.w3.org/html/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5" width="42" height="42" />
-</a>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+</div>
 
-<a target="_blank" href="https://www.w3schools.com/css/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-</a>
+###
 
+<div align="left">
+  <a href="https://www.instagram.com/_ashtonmathias_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1076758466544291890" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mathiasashton07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ashton-prince-mathias-0a8b70261/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<a target="_blank" href="https://www.chartjs.org" target="_blank" style="display: inline-block;">
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" />
-</a>
+###
 
+<br clear="both">
 
-<a target="_blank" href="https://firebase.google.com/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="firebase" width="42" height="42" />
-</a>
+<img src="https://raw.githubusercontent.com/Subtilizer28/Subtilizer28/output/snake.svg" alt="Snake animation" />
 
-
-<a target="_blank" href="https://heroku.com" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.linux.org/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.arduino.cc/" target="_blank" style="display: inline-block;">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://git-scm.com/" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.gnu.org/software/bash/" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://nodejs.org" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
-</a>
-
-</p>
-
-<a href="https://github.com/Subtilizer28" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=Subtilizer28&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only" />
-</a>
-
-<h2>📪 Contact me</h2>
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/ashton-prince-mathias-0a8b70261" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-</a>
-
-</p>
+###
